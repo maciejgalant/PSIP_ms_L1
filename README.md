@@ -5,3 +5,4 @@
 - Jan - warszawski
 - Bartek - radomszczański
 - Jan - miński
+- Dominik - koniński
