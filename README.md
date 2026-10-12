@@ -11,3 +11,4 @@
 - Dawid - bocheński
 - Daniel - sochaczewksi
 - Julia - hajnowski
+- Maciej - kutnowski
