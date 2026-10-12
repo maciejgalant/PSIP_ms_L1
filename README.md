@@ -6,3 +6,4 @@
 - Bartek - radomszczański
 - Jan - miński
 - Dominik - koniński
+- Kacper - legnicki
