@@ -3,3 +3,4 @@
 - Jakub - chełmski
 - Stanisław - turecki
 - Jan - warszawski
+- Bartek - radomszczański
