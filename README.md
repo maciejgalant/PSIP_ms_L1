@@ -9,3 +9,4 @@
 - Kacper - legnicki
 - Tymoteusz - toruński
 - Dawid - bocheński
+- Daniel - sochaczewksi
